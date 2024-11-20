@@ -33,7 +33,7 @@ https://wokwi.com/projects/415105141095711745
 
 
 <h1>Foto do sistema:</h1>
-<img src="https://github.com/user-attachments/assets/f0d5400b-f5d8-4375-90d9-28c4384cb47b"/>
+<img src="Prot/Prototype.png"/>
 
 
 
