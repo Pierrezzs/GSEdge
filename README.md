@@ -38,7 +38,7 @@ https://wokwi.com/projects/415105141095711745
 
 
 <h2>Explicação do projeto</h2>
-Nós implementamos um projeto que utiliza o ESP32 para monitorar o uso de energia, utilizanos o potênciometro para simular o ACS712(Sensor de Energia). Nosso objetivo foi monitorar e prever o uso exacerbado de energia.
+Nós implementamos um projeto que utiliza o ESP32 para monitorar o uso de energia, utilizamos o potênciometro para simular o ACS712(Sensor de Energia). Nosso objetivo foi monitorar e prever o uso exacerbado de energia.
 </br>
 <h2>O que fizemos:</h2>
 </br>
